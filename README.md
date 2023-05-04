@@ -1,2 +1,8 @@
 # EDM-Cup-2023-Competition
-Predict students' performance on end-of-unit math problems using their clickstream data from previous assignments
+About the competition: Predict students' performance on end-of-unit math problems using their clickstream data from previous assignments
+
+Competition Link: https://www.kaggle.com/competitions/edm-cup-2023/leaderboard
+
+We finally reached a score of 0.70023.
+
+The dataset we generated to submit for prediction is in the folder Prediction Dataset.
